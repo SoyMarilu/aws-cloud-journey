@@ -129,7 +129,7 @@ Transición directa a Cloud Infrastructure Engineer (nivel mid) especializándom
 
 ## 🔗 Links Útiles
 
-- **LinkedIn**: [[Tu LinkedIn](https://www.linkedin.com/in/maril%C3%BA-hern%C3%A1ndez-b0a664134/)]
+- **LinkedIn**: [Marilú Hernández](https://www.linkedin.com/in/maril%C3%BA-hern%C3%A1ndez-b0a664134/)]
 - **Proyectos Anteriores**: [Sistema Gestión Clientes](https://github.com/SoyMarilu/sistema-gestion-clientes)
 
 ---
